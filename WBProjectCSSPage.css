@@ -1,0 +1,39 @@
+ body { background-color: blanchedalmond }
+        h2 { text-align: center; color: brown } 
+        h3 { text-align: left; color: black }
+        h4 { text-align: left; color: gray } 
+        .intro { border-top-style: solid; 
+            border-right-style: solid;
+            border-left-style: solid; 
+            border-bottom-style: solid;
+            background-color: white;
+            padding: 10px;
+            border-radius: 25px; }
+        .review {margin-top: 20px}
+        p { background-color: blanchedalmond }
+        .pdf-container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 20px auto;
+        }
+        .pdf-viewer {
+            width: 90%;
+            height: 90vh;
+            border: 3px solid white;
+            box-sizing: border-box;
+        }
+        .full-page-img {
+            display: block;
+            width: 90%;
+            max-width: 850px;
+            margin: 20px auto;
+            border: 3px solid blanchedalmond;
+            box-sizing: border-box;
+        }
+        .top-nav {
+            background-color: blanchedalmond;
+            border: 3px solid rgba(255, 255, 255, 0.631);
+            border-radius: 20px;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
