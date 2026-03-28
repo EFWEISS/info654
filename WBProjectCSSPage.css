@@ -39,11 +39,11 @@
         }
         table {
             border-color: black;
-            border-style: dashed;
+            border-style: solid;
         }
         td {
             border-color: black;
-            border-style: dashed;
+            border-style: solid;
             padding: 10px;
         }
         #site-footer {
